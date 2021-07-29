@@ -7,7 +7,7 @@
    }
 
    .welcoming-h1 {
-     font-size: 50em;
+     font-size: larger;
        font-family: 'Georgia';
        color: black;
        white-space: nowrap;
